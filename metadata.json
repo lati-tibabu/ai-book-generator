@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Generator",
+  "description": "An application that generates a multi-page book from a user prompt using the Gemini API. Users can select a category for context, and the generated book can be previewed and downloaded as a PDF.",
+  "requestFramePermissions": []
+}
